@@ -1,0 +1,9 @@
+<staff>
+    <employee>
+        <id>1</id>
+        <firstName>Test</firstName>
+        <lastName>Test</lastName>
+        <country>Test</country>
+        <age>1</age>
+    </employee>
+</staff>
